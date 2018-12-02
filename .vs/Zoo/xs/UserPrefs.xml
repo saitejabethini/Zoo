@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{37509F5C-D0B3-5754-B8D5-6F6D19256EC7}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AnotherController.cs">
+    <Files>
+      <File FileName="Assets/GoogleVR/Teleport.cs" Line="37" Column="10" />
+      <File FileName="Assets/Anime.cs" Line="20" Column="24" />
+      <File FileName="Assets/AnotherController.cs" Line="43" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
